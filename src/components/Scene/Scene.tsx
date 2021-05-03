@@ -8,8 +8,8 @@ import RockIMG from "../../images/rock.png"
 import MidIMG from "../../images/mid.png"
 import ForegroundIMG from "../../images/foreground.png"
 
-export const Scene = () => {
-  const scene = useRef(null)
+export const Scene: React.FC = () => {
+  const scene = useRef<HTMLInputElement>(null)
 
   useEffect(() => {
     new Parallax(scene.current)
