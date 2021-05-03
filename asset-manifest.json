@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/planets/static/css/main.c68e66da.chunk.css",
+    "main.css": "/planets/static/css/main.60f7c449.chunk.css",
     "main.js": "/planets/static/js/main.b3c08b7c.chunk.js",
     "main.js.map": "/planets/static/js/main.b3c08b7c.chunk.js.map",
     "runtime-main.js": "/planets/static/js/runtime-main.3f6eae64.js",
@@ -8,7 +8,7 @@
     "static/js/2.d74aa3ec.chunk.js": "/planets/static/js/2.d74aa3ec.chunk.js",
     "static/js/2.d74aa3ec.chunk.js.map": "/planets/static/js/2.d74aa3ec.chunk.js.map",
     "index.html": "/planets/index.html",
-    "static/css/main.c68e66da.chunk.css.map": "/planets/static/css/main.c68e66da.chunk.css.map",
+    "static/css/main.60f7c449.chunk.css.map": "/planets/static/css/main.60f7c449.chunk.css.map",
     "static/js/2.d74aa3ec.chunk.js.LICENSE.txt": "/planets/static/js/2.d74aa3ec.chunk.js.LICENSE.txt",
     "static/media/background.161cceac.png": "/planets/static/media/background.161cceac.png",
     "static/media/earth.a2411c71.png": "/planets/static/media/earth.a2411c71.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3f6eae64.js",
     "static/js/2.d74aa3ec.chunk.js",
-    "static/css/main.c68e66da.chunk.css",
+    "static/css/main.60f7c449.chunk.css",
     "static/js/main.b3c08b7c.chunk.js"
   ]
 }
