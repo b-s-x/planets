@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Parallax from 'parallax-js'
+import { startAnimation } from '../../animation/index'
 import './scene.scss';
 
 import EarthIMG from "../../images/earth.png"
@@ -12,6 +13,7 @@ export const Scene: React.FC = () => {
   const scene = useRef<HTMLInputElement>(null)
 
   useEffect(() => {
+    startAnimation("background", "rock", "middle", "foreground")
     new Parallax(scene.current)
   }, [])
 
