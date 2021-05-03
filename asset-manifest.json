@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/planets/static/css/main.c68e66da.chunk.css",
+    "main.js": "/planets/static/js/main.b3c08b7c.chunk.js",
+    "main.js.map": "/planets/static/js/main.b3c08b7c.chunk.js.map",
+    "runtime-main.js": "/planets/static/js/runtime-main.3f6eae64.js",
+    "runtime-main.js.map": "/planets/static/js/runtime-main.3f6eae64.js.map",
+    "static/js/2.d74aa3ec.chunk.js": "/planets/static/js/2.d74aa3ec.chunk.js",
+    "static/js/2.d74aa3ec.chunk.js.map": "/planets/static/js/2.d74aa3ec.chunk.js.map",
+    "index.html": "/planets/index.html",
+    "static/css/main.c68e66da.chunk.css.map": "/planets/static/css/main.c68e66da.chunk.css.map",
+    "static/js/2.d74aa3ec.chunk.js.LICENSE.txt": "/planets/static/js/2.d74aa3ec.chunk.js.LICENSE.txt",
+    "static/media/background.161cceac.png": "/planets/static/media/background.161cceac.png",
+    "static/media/earth.a2411c71.png": "/planets/static/media/earth.a2411c71.png",
+    "static/media/foreground.93438d9a.png": "/planets/static/media/foreground.93438d9a.png",
+    "static/media/mid.cc110485.png": "/planets/static/media/mid.cc110485.png",
+    "static/media/rock.2648bdcc.png": "/planets/static/media/rock.2648bdcc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6eae64.js",
+    "static/js/2.d74aa3ec.chunk.js",
+    "static/css/main.c68e66da.chunk.css",
+    "static/js/main.b3c08b7c.chunk.js"
+  ]
+}
