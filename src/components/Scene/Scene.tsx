@@ -10,7 +10,7 @@ import MidIMG from "../../images/mid.png"
 import ForegroundIMG from "../../images/foreground.png"
 
 export const Scene: React.FC = () => {
-  const scene = useRef<HTMLInputElement>(null)
+  const scene = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     startAnimation("background", "rock", "middle", "foreground")
