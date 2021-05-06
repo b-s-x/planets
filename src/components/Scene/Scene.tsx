@@ -3,11 +3,11 @@ import Parallax from 'parallax-js'
 import { startAnimation } from '../../animation/index'
 import './scene.scss';
 
-import EarthIMG from "../../images/earth.png"
-import BackgroundIMG from "../../images/background.png"
-import RockIMG from "../../images/rock.png"
-import MidIMG from "../../images/mid.png"
-import ForegroundIMG from "../../images/foreground.png"
+import EarthIMG from "../../images/earth.webp"
+import BackgroundIMG from "../../images/background1.jpg"
+import RockIMG from "../../images/rock.webp"
+import MidIMG from "../../images/mid.webp"
+import ForegroundIMG from "../../images/foreground.webp"
 
 export const Scene: React.FC = () => {
   const scene = useRef<HTMLDivElement>(null)
